@@ -1,0 +1,26 @@
+{
+    "name": "matrix-effect-p5",
+    "version": "1.0.0",
+    "description": "This is a recreation of the matrix effect using the p5 and typescript",
+    "main": "index.html",
+    "scripts": {
+        "dev": "parcel index.html --open",
+        "build": "parcel build index.html"
+    },
+    "keywords": [
+        "typescript",
+        "p5",
+        "matrix",
+        "animation"
+    ],
+    "author": "Marios Paraskevas",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/p5": "^1.4.0",
+        "parcel-bundler": "^1.12.5",
+        "typescript": "^4.5.5"
+    },
+    "dependencies": {
+        "p5": "^1.4.1"
+    }
+}

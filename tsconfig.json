@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"lib": ["DOM","ES6"],
+		"module": "commonjs",
+		"strict": true,
+		"outDir": "dist",
+		"sourceMap": true,
+		"allowJs": true,
+		"rootDir": "src",
+		"esModuleInterop": true,
+	}
+}
